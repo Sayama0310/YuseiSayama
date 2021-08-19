@@ -9,9 +9,7 @@ YuseiSayama/c is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YuseiSayama&theme=vue-dark&show_icons=true)](https://github.com/YuseiSayama/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuseiSayama&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/YuseiSayama/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuseiSayama&count_private=true)
+![YuseiSayama's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuseiSayama&count_private=true&show_icons=true)
 
