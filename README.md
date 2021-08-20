@@ -2,6 +2,8 @@
 
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning to compose music with AI.
+- 🎓 My master's degree is in mathematics, and I studied algebraic geometry. 
+- 😍 I do love MUSIC!!
 
 <!---
 YuseiSayama/c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
